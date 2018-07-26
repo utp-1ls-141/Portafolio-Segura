@@ -1,0 +1,13 @@
+Proyecto Espacio
+
+Nombre: proyecto-espacio
+Tamaño: 75 MB
+URL: https://drive.google.com/drive/folders/1k54CkFGt52IEFMqrpW1WwglVUn70Nx03?usp=sharing
+
+--- Como usar ---
+El programa principal está en "/index.js".
+
+--- Instalador ---
+Advertencia: El instalador es una versión incompleta de EMGR Tools Installer. Para desinstalar eliminar la carpeta "C: \ Archivos de programa (x86) \ AE Games"
+
+Se recomienda deshabilitar el antivirus antes de usar el instalador.
